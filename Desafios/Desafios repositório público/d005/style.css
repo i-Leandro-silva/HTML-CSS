@@ -1,0 +1,22 @@
+@charset "UTF8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    image-orientation: from-image;
+}
+
+p {
+    text-align: justify;
+}
+
